@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["main","hallway","sitting","dining","kitchen","bedroom","guest","courtyard","greenhouse","slave","gazebo","carriage"],"defaultView":"main"}
+var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["main","hallway","sitting","dining","kitchen","bedroom","guest","courtyard","greenhouse","slave","gazebo","carriage","secret"],"defaultView":"main"}
 
 var roomstuff = {"rooms":{
 
