@@ -26,6 +26,6 @@ var roomstuff = {"rooms":{
 
 "carriage":{"rName":"The Carriage Room","backgroundImage":"https://soi-plantati.hyperchat.com/carriagehousebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/carriage1.jpg><br>Welcome to the Carriage House<br></center>","roombottom":""},
 
-"secret woods":{"rName":"The Secret Woods","backgroundImage":"https://soi-plantati.hyperchat.com/secretwoodsbackgrounduse.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/secretwoodsmiddleUSE.jpg><br>Welcome to The Secret Woods<br></center>","roombottom":""},
+"secret":{"rName":"The Secret Woods","backgroundImage":"https://soi-plantati.hyperchat.com/secretwoodsbackgrounduse.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/secretwoodsmiddleUSE.jpg><br>Welcome to The Secret Woods<br></center>","roombottom":""},
 
 }}
