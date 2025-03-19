@@ -1,0 +1,31 @@
+var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["main","hallway","sitting","dining","kitchen","bedroom","guest","courtyard","greenhouse","slave","gazebo","carriage"],"defaultView":"main"}
+
+var roomstuff = {"rooms":{
+
+"main":{"rName":"Main Entrance","backgroundImage":"https://soi-plantati.hyperchat.com/dp3.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/mainplantationhouse.jpg><br>Welcome to the Plantation<br></center>","roombottom":""},
+
+"hallway":{"rName":"Hallway","backgroundImage":"https://soi-plantati.hyperchat.com/mainhall.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/TheHallway.jpg><br>Entering the Hallway<br></center>","roombottom":""},
+
+"sitting":{"rName":"Sitting Room","backgroundImage":"https://soi-plantati.hyperchat.com/sittingroombackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/Sittingroom.jpg><br>Welcome to the Sitting Room<br></center>","roombottom":""},
+
+"dining":{"rName":"Dining Room","backgroundImage":"https://soi-plantati.hyperchat.com/diningroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/Dininghall.jpg><br>Welcome to The Dining Hall<br></center>","roombottom":""},
+
+"kitchen":{"rName":"Kitchen","backgroundImage":"https://soi-plantati.hyperchat.com/kitchenbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/kitchen.jpg><br>Welcome to the Kitchen<br></center>","roombottom":""},
+
+"bedroom":{"rName":"Master Bedroom","backgroundImage":"https://soi-plantati.hyperchat.com/bedroombackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/MasterBedroom.jpg><br>Welcome to the Bedroom<br></center>","roombottom":""},
+
+"guest":{"rName":"The Guest House","backgroundImage":"https://soi-plantati.hyperchat.com/guestroombackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/TheGuestRoom.jpg><br>Welcome to the Guest House<br></center>","roombottom":""},
+
+"courtyard":{"rName":"The Courtyard","backgroundImage":"https://soi-plantati.hyperchat.com/courtyardbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/courtyard.jpg><br>Welcome to the Courtyard<br></center>","roombottom":""},
+
+"greenhouse":{"rName":"Greenhouse","backgroundImage":"https://soi-plantati.hyperchat.com/greenhousebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/greenhouse.jpg><br>Welcome to the Greenhouse<br></center>","roombottom":""},
+
+"slave":{"rName":"The Slave Quarters","backgroundImage":"https://soi-plantati.hyperchat.com/slavebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/slavehouse.jpg><br>Welcome to the Slave House<br></center>","roombottom":""},
+
+"gazebo":{"rName":"The Gazebo","backgroundImage":"https://soi-plantati.hyperchat.com/gazebobackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/TheGazebo.jpg><br>Welcome to the Gazebo<br></center>","roombottom":""},
+
+"carriage":{"rName":"The Carriage Room","backgroundImage":"https://soi-plantati.hyperchat.com/carriagehousebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/carriage1.jpg><br>Welcome to the Carriage House<br></center>","roombottom":""},
+
+"secret woods":{"rName":"The Secret Woods","backgroundImage":"https://soi-plantati.hyperchat.com/secretwoodsbackgrounduse.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-plantati.hyperchat.com/secretwoodsmiddleUSE.jpg><br>Welcome to The Secret Woods<br></center>","roombottom":""},
+
+}}
